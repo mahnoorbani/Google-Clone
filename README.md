@@ -4,7 +4,7 @@
 
 This project is a clone of the [Google Search Homepage](https://google.com). I made it to improve my skills with HTML and CSS, and also to study Git and GitHub. Any feedback is very welcome! Leave your opinions and suggestions.
 
-- [**Live Preview**](https://github.com/mahnoorbani?tab=repositories)
+- [**Live Preview**](https://mahnoorbani.github.io/Google-Clone/)
 
 ## 🤓 Improved Skills
 
